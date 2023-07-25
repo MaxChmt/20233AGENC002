@@ -1,5 +1,5 @@
 # Test stage 20233AGENC002
-Ce dépôt Git a été créé dans le cadre d’un test de stage de développeur backend. Il consiste en une succession de taches permettant la communication avec une base de données afin de retranscrire les informations présentes dans celle-ci.
+Ce dépôt Git a été créé dans le cadre d’un test de stage de développeur backend. Il consiste en une succession d'étapes permettant la communication avec une base de données afin de retranscrire les informations présentes dans celle-ci.
 ## Objectif :
 Ce test a pour objectif de mettre en pratique les connaissances et compétences du postulant sur le développement d’application dorsale (backend).
 ## Tâche :
