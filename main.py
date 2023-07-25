@@ -58,6 +58,7 @@ def get_topn_documents(topn):
                 })
 
         cursor.close()
+        connection.close()
 
         #print(parsed_results)
 
